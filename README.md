@@ -1,0 +1,2 @@
+# Automated AWS Cost Optimizer
+This repository contains an AWS Lambda function designed to automatically shut down running EC2 instances on a nightly schedule via Amazon EventBridge to minimize AWS billing costs.
